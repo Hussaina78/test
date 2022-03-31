@@ -1,0 +1,22 @@
+*body{
+	background: red;
+}
+h1{
+	color: blueviolet;
+}
+
+p{
+	color: yellow;
+}
+
+#container{
+	color: black !important;
+	text-align: right;
+	background: blue;
+	padding: 20px;
+}
+
+.Introduction{
+	background: rosybrown;
+	color: white;
+}
